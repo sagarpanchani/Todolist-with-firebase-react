@@ -1,0 +1,30 @@
+
+._Container {
+  padding: 50px;
+  background-color: white;
+  margin-top: 50px;
+  width: 50%;
+  border-radius: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+._input{
+  width: 600px;
+  border-radius: 4px;
+  border: 1px  solid;
+}
+._span{
+  color: rgb(54, 33, 243);
+}
+.d-flex{
+  list-style-type: none !important;
+}
+button{
+margin: 10px  !important;
+width: 100px  !important;
+}
+
+
+._container{
+  width: 50% !important;
+}
